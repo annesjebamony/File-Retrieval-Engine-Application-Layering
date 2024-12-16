@@ -1,9 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/lZXSBlN2)
-## CSC 435 Programming Assignment 2 (Fall 2024)
-**Jarvis College of Computing and Digital Media - DePaul University**
-
-**Student**: Annes Jebamony (annes.jebamony@dePaul.edu)  
-**Solution programming language**: Java
 ## Overview
 
 This project implements a simple File Retrieval Engine using Java. The engine supports indexing and searching of text files located within directories. The purpose of the assignment is to create a basic retrieval system that demonstrates how inverted indices work for querying textual content.
